@@ -36,4 +36,4 @@ File structure :
 Copy the generated app.war to Tomcat Directory/webapps/
 
 # Authors
- + **Sallak Imane** 
+ + [**Sallak Imane**](https://github.com/SallakImane)  
